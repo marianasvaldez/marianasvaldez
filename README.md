@@ -29,13 +29,11 @@ Excel-based analysis of the data job market, exploring salaries, job roles, requ
 
 **Tools:** Excel • Power Query • Power Pivot • PivotTables • Data Model
 
-### Global Data Jobs Salary Analytics Dashboard
+### [Data Jobs Salary Dashboard](https://github.com/marianasvaldez/data-jobs-salary-dashboard)
 
-Interactive Excel dashboard built from **32,000+ salary records** to explore salary trends across data-related roles.
+Interactive Excel dashboard built from **32,000+ job records** to explore salaries, job demand, platforms, geographic differences, and employment types across data-related roles.
 
-**Tools:** Excel • Power Query • Power Pivot • PivotTables • PivotCharts • XLOOKUP
-
-> Project repository coming soon.
+**Tools:** Excel • Power Query • PivotTables • PivotCharts • XLOOKUP • Data Validation
 
 ## 🔬 Research
 
