@@ -16,7 +16,7 @@ My experience combines healthcare research, statistical analysis, data cleaning,
 
 ## 📊 Featured Projects
 
-### Data Jobs Market Analysis
+### [Data Jobs Market Analysis](https://github.com/marianasvaldez/data-jobs-market-analysis)
 
 Excel-based analysis of the data job market, exploring salaries, job roles, required skills, and geographic differences.
 
@@ -28,8 +28,6 @@ Excel-based analysis of the data job market, exploring salaries, job roles, requ
 - Number of skills required across data roles
 
 **Tools:** Excel • Power Query • Power Pivot • PivotTables • Data Model
-
-> Project repository coming soon.
 
 ### Global Data Jobs Salary Analytics Dashboard
 
